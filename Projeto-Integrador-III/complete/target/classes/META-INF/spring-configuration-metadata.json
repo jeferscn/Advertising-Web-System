@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "br.com.unicuritiba.projetopisistemaweb.localstorage.StorageProperties",
+      "sourceType": "br.com.unicuritiba.projetopisistemaweb.localstorage.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "description": "Folder location for storing files",
+      "sourceType": "br.com.unicuritiba.projetopisistemaweb.localstorage.StorageProperties"
+    }
+  ],
+  "hints": []
+}
